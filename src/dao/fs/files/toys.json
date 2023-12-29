@@ -1,0 +1,24 @@
+[
+  {
+    "title": "title",
+    "description": "description",
+    "stock": 1,
+    "url_photo": "url_photo",
+    "price": 1,
+    "createdAt": "2023-12-05T14:30:42.850Z",
+    "updatedAt": "2023-12-05T14:30:42.850Z",
+    "__v": 0,
+    "_id": "1e10de27df3e476dc6f686a1e39294d5dcef4eb6"
+  },
+  {
+    "title": "title222",
+    "description": "description",
+    "stock": 1,
+    "url_photo": "url_photo",
+    "price": 1,
+    "createdAt": "2023-12-05T14:36:10.943Z",
+    "updatedAt": "2023-12-05T14:36:10.943Z",
+    "__v": 0,
+    "_id": "e55a1c9c9f92f91a2a4a023dbe321713843f7bc0"
+  }
+]

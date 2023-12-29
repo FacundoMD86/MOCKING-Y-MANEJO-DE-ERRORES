@@ -1,0 +1,23 @@
+[31mERROR[39m: GET /api/orders/all - 15:38:54
+[31mERROR[39m: GET /api/orders/all - 15:39:09
+ERROR: GET /api/orders/fake - 16:21:27 - not found path
+ERROR: POST /api/fake - 08:04:11 - orders validation failed: type: `mozzarella` is not a valid enum value for path `type`.
+ERROR: POST /api/fake - 08:04:11 - orders validation failed: type: `mozzarella` is not a valid enum value for path `type`.
+
+[31mFATAL[39m: POST /api/auth/signout - 16:09:01
+ERROR: POST /api/auth/logout - 17:45:15 - not found path
+ERROR: GET /api/simple - 23:22:42 - not found path
+ERROR: GET /api/simple - 23:23:11 - not found path
+FATAL: GET /api/orders/gain - 00:19:54 - user_id is not defined
+FATAL: GET /api/orders/gain - 00:40:57 - Cannot read properties of undefined (reading '_id')
+ERROR: GET /favicon.ico - 09:17:27 - not found path
+ERROR: GET /favicon.ico - 08:59:57 - not found path
+ERROR: GET /api/orders/all - 11:29:33 - Invalid Credentials
+ERROR: GET /api/orders/all - 11:29:48 - Invalid Credentials
+ERROR: GET /api/orders/all - 11:30:36 - Invalid Credentials
+ERROR: GET /api/orders/all - 11:33:01 - Invalid Credentials
+ERROR: GET /api/orders/allS - 11:34:12 - not found path
+ERROR: GET /api/loggers - 14:58:00 - not found path
+ERROR: GET /api/user - 15:18:27 - not found path
+ERROR: GET /api/auth - 15:18:55 - not found path
+ERROR: GET /api/orders - 15:19:43 - order not found
